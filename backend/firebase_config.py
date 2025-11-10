@@ -1,5 +1,5 @@
 firebaseConfig = {
-    "apiKey": "AIzaSyC9TQe-cLCm8RRVCpOBcC4M62JEkLe9ii4",
+    "apiKey": "",
     "authDomain": "iot-vehicules.firebaseapp.com",
     "databaseURL": "https://iot-vehicules-default-rtdb.firebaseio.com",
     "projectId": "iot-vehicules",
